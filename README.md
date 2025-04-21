@@ -10,7 +10,7 @@ This project focuses on developing a machine learning model to predict the prese
 #### 2.1 Primary Objectives
 - Predict the presence of heart disease using patient medical data.
 - Enhance diagnostic accuracy through machine learning techniques.
-- Provide a reproducible and interpretable model for healthcare analytics.
+- Provide a reproducible and interpretable model for healthcare analytics.
 
 #### 2.2 Technical Objectives
 - Implement data preprocessing techniques, including feature scaling and encoding.
@@ -19,7 +19,7 @@ This project focuses on developing a machine learning model to predict the prese
 - Ensure code modularity and clarity for future enhancements.
 
 ### 3. Dataset
-The dataset used in this project is sourced from the [Heart Disease Prediction Dataset](https://raw.githubusercontent.com/kb22/Heart-Disease-Prediction/master/dataset.csv) on GitHub. It comprises 304 entries with 14 attributes, including:
+The dataset used in this project is sourced from the [Heart Disease Prediction Dataset](https://raw.githubusercontent.com/kb22/Heart-Disease-Prediction/master/dataset.csv) on GitHub. It comprises 304 entries with 14 attributes, including:
 - **Age**: Age of the patient.
 - **Gender**: Sex of the patient (1 = male; 0 = female).
 - **ChestPainType**: Type of chest pain experienced.
@@ -44,7 +44,7 @@ The dataset used in this project is sourced from the [Heart Disease Prediction D
 
 #### 4.2 Supporting Libraries
 - **StandardScaler**: Feature scaling.
-- **train_test_split**: Splitting dataset into training and testing sets.
+- **train_test_split**: Splitting the dataset into training and testing sets.
 - **accuracy_score, confusion_matrix, classification_report**: Model evaluation metrics.
 
 ### 5. Model Development Workflow
